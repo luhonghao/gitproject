@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroYard", "MetroYard\Metr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroYard.Tests", "MetroYard.Tests\MetroYard.Tests.csproj", "{D6D5ECE5-646A-426C-838C-D85C786F8E1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroYard.Domain", "MetroYard.Domain\MetroYard.Domain.csproj", "{F58FCC9B-5D1B-48E8-8BF5-0BEE3393F42B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{D6D5ECE5-646A-426C-838C-D85C786F8E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6D5ECE5-646A-426C-838C-D85C786F8E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6D5ECE5-646A-426C-838C-D85C786F8E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58FCC9B-5D1B-48E8-8BF5-0BEE3393F42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58FCC9B-5D1B-48E8-8BF5-0BEE3393F42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58FCC9B-5D1B-48E8-8BF5-0BEE3393F42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58FCC9B-5D1B-48E8-8BF5-0BEE3393F42B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
